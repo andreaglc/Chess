@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Andrea\source\repos\Chess\Chess\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-11T19:56:21.069</Modified>
+      <Modified>2017-12-11T21:48:30.956</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\bin\x86\Debug\Chess.exe">
       <PackagePath>entrypoint\Chess.exe</PackagePath>
-      <Modified>2017-12-11T19:56:19.303</Modified>
+      <Modified>2017-12-11T21:31:10.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\.nuget\packages\microsoft.aspnet.signalr.client\2.2.2\lib\netcore50\Microsoft.AspNet.SignalR.Client.dll">
       <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
@@ -561,85 +561,37 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2017-12-10T02:26:09.558</Modified>
+      <Modified>2017-12-11T21:20:24.393</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-10T02:26:09.558</Modified>
+      <Modified>2017-12-11T21:44:11.651</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-10T02:26:09.558</Modified>
+      <Modified>2017-12-11T21:24:08.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-10T02:26:09.558</Modified>
+      <Modified>2017-12-11T21:18:01.847</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-10T02:26:09.558</Modified>
+      <Modified>2017-12-11T21:23:01.941</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-10T02:26:09.558</Modified>
+      <Modified>2017-12-11T21:30:17.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-10T02:26:09.558</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\bishop.svg">
-      <PackagePath>Assets\bishop.svg</PackagePath>
-      <Modified>2017-12-11T02:32:28.349</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\bishopW.svg">
-      <PackagePath>Assets\bishopW.svg</PackagePath>
-      <Modified>2017-12-11T02:34:15.795</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\horse.svg">
-      <PackagePath>Assets\horse.svg</PackagePath>
-      <Modified>2017-12-11T02:32:40.231</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\horseW.svg">
-      <PackagePath>Assets\horseW.svg</PackagePath>
-      <Modified>2017-12-11T02:34:31.792</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\king.svg">
-      <PackagePath>Assets\king.svg</PackagePath>
-      <Modified>2017-12-11T02:31:45.525</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\kingW.svg">
-      <PackagePath>Assets\kingW.svg</PackagePath>
-      <Modified>2017-12-11T02:33:25.911</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\pawn.svg">
-      <PackagePath>Assets\pawn.svg</PackagePath>
-      <Modified>2017-12-11T02:32:49.503</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\pawnW.svg">
-      <PackagePath>Assets\pawnW.svg</PackagePath>
-      <Modified>2017-12-11T02:34:45.380</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\queen.svg">
-      <PackagePath>Assets\queen.svg</PackagePath>
-      <Modified>2017-12-11T02:31:58.890</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\queenW.svg">
-      <PackagePath>Assets\queenW.svg</PackagePath>
-      <Modified>2017-12-11T02:33:36.980</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\rook.svg">
-      <PackagePath>Assets\rook.svg</PackagePath>
-      <Modified>2017-12-11T02:32:15.979</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\rookW.svg">
-      <PackagePath>Assets\rookW.svg</PackagePath>
-      <Modified>2017-12-11T02:33:56.231</Modified>
+      <Modified>2017-12-11T21:47:48.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\wood.jpg">
       <PackagePath>Assets\wood.jpg</PackagePath>
@@ -664,11 +616,11 @@
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-11T19:56:20.803</Modified>
+      <Modified>2017-12-11T21:29:16.832</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\bin\x86\Debug\Core\Chess.exe">
       <PackagePath>Chess.exe</PackagePath>
-      <Modified>2017-12-11T19:56:21.065</Modified>
+      <Modified>2017-12-11T21:48:30.952</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

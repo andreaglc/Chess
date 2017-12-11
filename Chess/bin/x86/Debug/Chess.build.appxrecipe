@@ -445,42 +445,6 @@
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\bishop.svg">
-      <PackagePath>Assets\bishop.svg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\bishopW.svg">
-      <PackagePath>Assets\bishopW.svg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\horse.svg">
-      <PackagePath>Assets\horse.svg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\horseW.svg">
-      <PackagePath>Assets\horseW.svg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\king.svg">
-      <PackagePath>Assets\king.svg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\kingW.svg">
-      <PackagePath>Assets\kingW.svg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\pawn.svg">
-      <PackagePath>Assets\pawn.svg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\pawnW.svg">
-      <PackagePath>Assets\pawnW.svg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\queen.svg">
-      <PackagePath>Assets\queen.svg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\queenW.svg">
-      <PackagePath>Assets\queenW.svg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\rook.svg">
-      <PackagePath>Assets\rook.svg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\rookW.svg">
-      <PackagePath>Assets\rookW.svg</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\Assets\wood.jpg">
       <PackagePath>Assets\wood.jpg</PackagePath>
     </AppxPackagedFile>

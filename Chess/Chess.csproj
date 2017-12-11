@@ -109,29 +109,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\bishop.png" />
-    <Content Include="Assets\bishop.svg" />
     <Content Include="Assets\bishopW.png" />
-    <Content Include="Assets\bishopW.svg" />
     <Content Include="Assets\horse.png" />
-    <Content Include="Assets\horse.svg" />
     <Content Include="Assets\horseW.png" />
-    <Content Include="Assets\horseW.svg" />
     <Content Include="Assets\king.png" />
-    <Content Include="Assets\king.svg" />
     <Content Include="Assets\kingW.png" />
-    <Content Include="Assets\kingW.svg" />
     <Content Include="Assets\pawn.png" />
-    <Content Include="Assets\pawn.svg" />
     <Content Include="Assets\pawnW.png" />
-    <Content Include="Assets\pawnW.svg" />
     <Content Include="Assets\queen.png" />
-    <Content Include="Assets\queen.svg" />
     <Content Include="Assets\queenW.png" />
-    <Content Include="Assets\queenW.svg" />
     <Content Include="Assets\rook.png" />
-    <Content Include="Assets\rook.svg" />
     <Content Include="Assets\rookW.png" />
-    <Content Include="Assets\rookW.svg" />
     <Content Include="Assets\wood.jpg" />
     <Content Include="Assets\woodb.jpg" />
     <Content Include="Properties\Default.rd.xml" />
