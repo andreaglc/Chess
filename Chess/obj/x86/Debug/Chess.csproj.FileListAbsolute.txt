@@ -219,4 +219,9 @@ C:\Users\Andrea\source\repos\Chess\Chess\bin\x86\Debug\Newtonsoft.Json.dll
 C:\Users\Andrea\source\repos\Chess\Chess\obj\x86\Debug\Microsoft.AspNet.SignalR.Client\en-US\Microsoft.AspNet.SignalR.Client.Resources.resw
 C:\Users\Andrea\source\repos\Chess\Chess\obj\x86\Debug\Microsoft.AspNet.SignalR.Client\en-US\Microsoft.AspNet.SignalR.Client.Store.Resources.resw
 C:\Users\Andrea\source\repos\Chess\Chess\obj\x86\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Andrea\source\repos\Chess\Chess\bin\x86\Debug\Controls\Movements.xbf
+C:\Users\Andrea\source\repos\Chess\Chess\obj\x86\Debug\Controls\Movements.g.i.cs
+C:\Users\Andrea\source\repos\Chess\Chess\obj\x86\Debug\Controls\Movements.g.cs
+C:\Users\Andrea\source\repos\Chess\Chess\obj\x86\Debug\Controls\Movements.xaml
+C:\Users\Andrea\source\repos\Chess\Chess\obj\x86\Debug\Controls\Movements.xbf
 C:\Users\Andrea\source\repos\Chess\Chess\obj\x86\Debug\Chess.csprojResolveAssemblyReference.cache

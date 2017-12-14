@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Andrea\source\repos\Chess\Chess\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-11T22:28:38.566</Modified>
+      <Modified>2017-12-14T01:42:32.963</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\bin\x86\Debug\Chess.exe">
       <PackagePath>entrypoint\Chess.exe</PackagePath>
-      <Modified>2017-12-11T22:28:37.770</Modified>
+      <Modified>2017-12-14T01:42:32.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\.nuget\packages\microsoft.aspnet.signalr.client\2.2.2\lib\netcore50\Microsoft.AspNet.SignalR.Client.dll">
       <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
@@ -607,7 +607,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\bin\x86\Debug\Chess.xr.xml">
       <PackagePath>Chess.xr.xml</PackagePath>
-      <Modified>2017-12-11T19:56:19.058</Modified>
+      <Modified>2017-12-14T01:42:31.786</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -616,11 +616,11 @@
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-11T21:29:16.832</Modified>
+      <Modified>2017-12-14T01:42:32.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrea\source\repos\Chess\Chess\bin\x86\Debug\Core\Chess.exe">
       <PackagePath>Chess.exe</PackagePath>
-      <Modified>2017-12-11T22:28:38.552</Modified>
+      <Modified>2017-12-14T01:42:32.959</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
