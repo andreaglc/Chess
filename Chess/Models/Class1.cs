@@ -15,6 +15,12 @@ namespace Chess.Models
         Black
     }
 
+    public enum GameState
+    {
+        WhitePlaying,
+        BlackPlaying,
+    }
+
     public class Square : Button
     {
         public Square(Brush defaultbrush, int column, int row )

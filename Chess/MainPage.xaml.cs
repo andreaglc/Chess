@@ -57,14 +57,16 @@ namespace Chess
         Piece pawnB8;
         Square[,] squares;
         Square currentSquare;
+        GameState gameState;
         int[] invCol = new int[8];
         int[] invRow = new int[8];
-        int myId = 9566;
+        int myId = 8207;
         private IHubProxy _hub;
 
         public MainPage()
         {
             this.InitializeComponent();
+            gameState = GameState.BlackPlaying;
             InitializePieces();
             InitializeChessBoard();
             PutPieces();
@@ -234,7 +236,7 @@ namespace Chess
             var row = Grid.GetRow(sqr);
             var column = Grid.GetColumn(sqr);
 
-            if (sqr.CurrentPiece != null && sqr.CurrentPiece.Color != Color.Black)
+            if (sqr.CurrentPiece != null && sqr.CurrentPiece.Color != Color.Black && gameState != GameState.BlackPlaying)
             {
                 SetDefaultBackgrounds();
                 if (sqr.CurrentPiece.Type == 2)
@@ -319,6 +321,15 @@ namespace Chess
                 squares[prevCol, prevRow].Content = null;
                 squares[nextCol, nextRow].Content = image;
                 squares[prevCol, prevRow].CurrentPiece = null;
+
+                if(gameState == GameState.BlackPlaying)
+                {
+                    gameState = GameState.WhitePlaying;
+                }
+                else
+                {
+                    gameState = GameState.BlackPlaying;
+                }
 
                 
 
